@@ -166,18 +166,6 @@ Key Visuals:
 
 ---
 
-## Repository Contents
-
-| File | Description |
-|--------|-------------|
-| Ecommerce_Sales_Dashboard.pbix | Power BI Dashboard File |
-| Ecommerce_Sales_Dataset.xlsx | Source Dataset |
-| Customer_and_revenue_insights.png | Dashboard Screenshot |
-| Sales_team.png | Dashboard Screenshot |
-| Sales_performance_overview.png | Dashboard Screenshot |
-
----
-
 ## Author
 
 **Rahul Chhabra**
